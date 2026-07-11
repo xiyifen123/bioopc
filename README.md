@@ -1,4 +1,4 @@
-# BioOPC
+# BioOPC (Biological Opportunity & Career Assessment)
 
 AI-assisted Career Decision Tool for Undergraduate Researchers
 
